@@ -90,9 +90,11 @@ main {
 
 .review h2 {
     color: rgb(209, 208, 208);
+    margin-bottom: 0;
 }
 
 .review p {
+    margin-top: 5px;
     width: 200px;
     font-size: 18px;
     color: #9c9c9c;
